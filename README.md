@@ -74,15 +74,6 @@ A conversão é feita dividindo o valor digitado pela cotação da moeda selecio
 
 ---
 
-## 🎯 Melhorias Futuras (Sugestões)
-
-* 🔄 Integração com API de câmbio em tempo real
-* 📱 Responsividade aprimorada para mobile
-* 🌙 Modo escuro
-* 🧮 Conversão entre múltiplas moedas (não apenas BRL)
-
----
-
 ## 👨‍💻 Autor
 
 **Jeferson Santana**
