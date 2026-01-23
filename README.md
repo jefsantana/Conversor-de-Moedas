@@ -3,6 +3,9 @@
 
 Projeto de **Conversor de Moedas** desenvolvido com **HTML, CSS e JavaScript**, que permite converter valores em **Real (BRL)** para **Dólar (USD)**, **Euro (EUR)** e **Libra Esterlina (GBP)** de forma simples e intuitiva.
 
+
+Publicado: https://jefsantana.github.io/Conversor-de-Moedas/
+
 ---
 
 ## 📸 Preview do Projeto
