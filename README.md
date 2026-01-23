@@ -78,7 +78,6 @@ A conversão é feita dividindo o valor digitado pela cotação da moeda selecio
 
 **Jeferson Santana**
 📌 Desenvolvedor Web
-📚 Estudante de Análise e Desenvolvimento de Sistemas
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jeferson-santana-machado/)
 
